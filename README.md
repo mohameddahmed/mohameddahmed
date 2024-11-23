@@ -1,6 +1,6 @@
 -👋 Hi, I’m @mohameddahmed  
--👀I’m interested in Mobile Development 
--🌱I’m currently learning Flutter 
+-👀I’m interested in Mobile Development
+-🌱I’m currently learning Flutter
 -📫 How to reach me [www.linkedin.com/in/mohamed-ahmed-b0b3](https://www.linkedin.com/in/mohamed-ahmed-b0b34222b/)
 
 <!---
